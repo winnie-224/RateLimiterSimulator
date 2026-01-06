@@ -44,3 +44,10 @@ Both algorithms implement a common interface:
 
 ```csharp
 IRateLimiter
+```
+---
+## Screenshots
+
+<img width=40% height=relative alt="Screenshot 2026-01-06 151008" src="https://github.com/user-attachments/assets/71517b1b-a10a-4df1-b24b-869de4e102ec" />
+<img width=40% alt="Screenshot 2026-01-06 151021" src="https://github.com/user-attachments/assets/23e8928d-b2c5-4bf0-9726-3dfe7629dea9" />
+<img width=40% height=40% alt="Screenshot 2026-01-06 151034" src="https://github.com/user-attachments/assets/94625743-532a-4ddb-b32d-85e834be4a5c" />
